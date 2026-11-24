@@ -1,5 +1,1 @@
-nginx
 mixa3607/llama.cpp-gfx906:b12717-rocm-10.1-mxxm
-#支持私库
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
